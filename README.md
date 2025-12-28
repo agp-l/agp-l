@@ -1,23 +1,22 @@
-# @agp-l - I am a web developer
+# @agp-l
 
 Here's a bit about me:
-- 📕 I am a beginner, I only know the basics programming.
-- 🌱 I enjoy building software using PHP, SQL, CSS, GML.
+- 📕 I am PHP Developer
+- 🌱 I enjoy building software using PHP, SQL, CSS
 - 🚸 I am tutors of young 8-year-old children from the Czech Republic. https://dobrodruzi.cz
--  PHP Backen Developer | Open Source Enthusiast
 
- (lang cs)
 
 ## Identity: agp-l is licensed under AGPLv3
 
 ```php
 $profile = [
     'nick'    => 'AGP[L]',
-    'name'    => 'Petr Lízal',
+    'name'    => 'he-man',
     'license' => 'AGPLv3',
     'tools'   => ['PHP', 'JavaScript', 'Bash', 'Linux Security'],
-    'status'  => '$[human] Open Source'
+    'status'  => '$like[Open Source]',
+    'lang'  => 'cs'
 ];
 
-<? 'agp-l | PHP Backend Developer | Human $[OpenSource] licensed under AGPL v3.' ?>
+<? 'agp-l | PHP Backend Developer |  $agp[l] licensed under AGPL v3.' ?>
 
