@@ -9,8 +9,21 @@ Here's a bit about me:
 
 Identity: agp-l is licensed under AGPLv3
 
- # > 
-``` 
+```php
+$profile = [
+    'nick'    => 'AGP[L]',
+    'name'    => 'Petr Lízal',
+    'license' => 'AGPLv3',
+    'tools'   => ['PHP', 'Bash', 'Python', 'Linux Security'],
+    'status'  => '$[human] Open Source'
+];
+
+<? 'agp-l | PHP Backend Developer | Human $[OpenSource] licensed under AGPL v3.' ?>
+
+
+
+
+ 
 ### 👨‍💻 Licensed Human | PHP Backend Developer | Open Source Enthusiast
 
 ```php
