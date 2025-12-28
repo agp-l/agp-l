@@ -7,6 +7,8 @@ Here's a bit about me:
 
  (lang cs)
 
+Identity: agp-l is licensed under AGPLv3
+
  # <?php echo "Petr Lízal"; ?> (agp-l)
 
 ### 👨‍💻 Licensed Human | PHP Backend Developer | Open Source Enthusiast
@@ -19,3 +21,9 @@ $profile = [
     'tools'   => ['PHP', 'Bash', 'Python', 'Linux Security'],
     'status'  => '$[human] Open Source'
 ];
+
+> **`<?php echo 'AGP[L]'; ?>`**
+> 
+> Petr Lízal | PHP Backend Developer | Human $[OpenSource] licensed under AGPL v3. 🛡️🐘
+
+
