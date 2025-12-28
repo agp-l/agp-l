@@ -15,7 +15,7 @@ $profile = [
     'nick'    => 'AGP[L]',
     'name'    => 'Petr Lízal',
     'license' => 'AGPLv3',
-    'tools'   => ['PHP', 'Bash', 'Python', 'Linux Security'],
+    'tools'   => ['PHP', 'JavaScript', 'Bash', 'Linux Security'],
     'status'  => '$[human] Open Source'
 ];
 
