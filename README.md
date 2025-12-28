@@ -7,4 +7,15 @@ Here's a bit about me:
 
  (lang cs)
 
- 
+ # <?php echo "Petr Lízal"; ?> (agp-l)
+
+### 👨‍💻 Licensed Human | PHP Backend Developer | Open Source Enthusiast
+
+```php
+$profile = [
+    'nick'    => 'AGP[L]',
+    'name'    => 'Petr Lízal',
+    'license' => 'AGPLv3',
+    'tools'   => ['PHP', 'Bash', 'Python', 'Linux Security'],
+    'status'  => '$[human] Open Source'
+];
