@@ -1,4 +1,4 @@
-@AGPLCZ - I am a web developer
+# @agp-l - I am a web developer
 
 Here's a bit about me:
 - 📕 I am a beginner, I only know the basics programming.
@@ -8,7 +8,7 @@ Here's a bit about me:
 
  (lang cs)
 
-Identity: agp-l is licensed under AGPLv3
+## Identity: agp-l is licensed under AGPLv3
 
 ```php
 $profile = [
