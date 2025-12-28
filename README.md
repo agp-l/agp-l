@@ -10,8 +10,7 @@ Here's a bit about me:
 Identity: agp-l is licensed under AGPLv3
 
  # > 
-``` <? 'agp-l | PHP Backend Developer | Human $[OpenSource] licensed under AGPL v3.' ?>
-
+``` 
 ### 👨‍💻 Licensed Human | PHP Backend Developer | Open Source Enthusiast
 
 ```php
@@ -23,6 +22,7 @@ $profile = [
     'status'  => '$[human] Open Source'
 ];
 
+<? 'agp-l | PHP Backend Developer | Human $[OpenSource] licensed under AGPL v3.' ?>
 
 
 
